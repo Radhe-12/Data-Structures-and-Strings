@@ -41,7 +41,7 @@ Student 'Rahul' not found in the record.
 
 ### 💻 Example Output:
 
-original list: [1,2,3,4,5,6,7,8,9,10]
+Original list: [1,2,3,4,5,6,7,8,9,10]
 
 Extracted list: [1, 2, 3, 4, 5]
 
