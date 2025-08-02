@@ -24,3 +24,28 @@ OR
 Enter the student's name: Rahul
 
 Student 'Rahul' not found in the record.
+
+
+
+---
+
+## 🔁 Task 2: List Extraction and Reversal
+
+**File:** `task2_extract_reverse.py`
+
+### ✅ Functionality:
+- Creates a list of numbers from 1 to 10.
+- Extracts the first 5 elements.
+- Reverses the extracted list.
+- Displays both original and reversed sublists.
+
+### 💻 Example Output:
+
+original list: [1,2,3,4,5,6,7,8,9,10]
+
+Extracted list: [1, 2, 3, 4, 5]
+
+Reversed extracted list: [5, 4, 3, 2, 1]
+
+
+
