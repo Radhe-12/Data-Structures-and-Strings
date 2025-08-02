@@ -1,1 +1,9 @@
+x = {'radhe': 50, 'dinesh': 60, 'monu': 40, 'rahul': 30, 'vineet': 27}
 
+name = input("Enter a student name: ")
+
+if name in x:
+    print(f"{name}'s marks: is {x[name]}")
+
+else:
+    print(f"{name} name is not found")
